@@ -11,4 +11,4 @@ Key Logger In Python: (Only Use FOr Education Use I Am Not Responsible For Anyth
 Random Number Generator In Powershell Script: https://github.com/Game-Dev2233/Random-Number-Genorator-Powershell
 
 # Docs
-https://game-dev2233.github.io/docs/docs.md
+https://game-dev2233.github.io/docs/docs.html
