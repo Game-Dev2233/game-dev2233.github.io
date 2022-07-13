@@ -12,3 +12,6 @@ Random Number Generator In Powershell Script: https://github.com/Game-Dev2233/Ra
 
 # Docs
 https://game-dev2233.github.io/docs/docs.html
+
+# Old Os
+This Is A Project But This One Is More Important Than Others https://github.com/Game-Dev2233/My-Os/
